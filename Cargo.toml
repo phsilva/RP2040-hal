@@ -5,7 +5,7 @@ authors = ["eolder <evanmolder@gmail.com>"]
 edition = "2018"
 homepage = "https://github.com/eolder/RP2040-hal"
 description = "A Rust RP2040 HAL impl"
-license = "MIT OR APACHE-2.0"
+license = "MIT OR Apache-2.0"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
