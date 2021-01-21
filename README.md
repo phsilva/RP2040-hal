@@ -10,23 +10,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/eolder/RP2040-hal">
+  <a href="https://github.com/eolder/rp2040-hal">
     <img src="https://www.raspberrypi.org/documentation/pico/getting-started/static/pico-board-c87f938e4e889e9cbac0f5bc1ff27f30.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">RP2040-hal</h3>
+<h3 align="center">rp2040 -hal</h3>
 
   <p align="center">
-    A Rust RP2040 HAL impl
+    A Rust rp2040HAL impl
     <br />
-    <a href="https://github.com/eolder/RP2040-hal"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/eolder/rp2040-hal"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/eolder/RP2040-hal">View Demo</a>
+    <a href="https://github.com/eolder/rp2040-hal">View Demo</a>
     ·
-    <a href="https://github.com/eolder/RP2040-hal/issues">Report Bug</a>
+    <a href="https://github.com/eolder/rp2040-hal/issues">Report Bug</a>
     ·
-    <a href="https://github.com/eolder/RP2040-hal/issues">Request Feature</a>
+    <a href="https://github.com/eolder/rp2040-hal/issues">Request Feature</a>
   </p>
 </p>
 
@@ -71,11 +71,13 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo or use the crate
    ```
-   git clone https://github.com/eolder/RP2040-hal.git
+   git clone https://github.com/eolder/rp2040
+  -hal.git
    ```
    or 
    ```
-   cargo install rp2040-hal
+   cargo install rp2040
+   -hal
    ```
 
 
@@ -92,7 +94,7 @@ TODO:_For more examples, please refer to the [Documentation](https://example.com
 <!-- ROADMAP -->
 ## Roadmap
 
-TODO: See the [open issues](https://github.com/eolder/RP2040-hal/issues) for a list of proposed features (and known issues).
+TODO: See the [open issues](https://github.com/eolder/rp2040-hal/issues) for a list of proposed features (and known issues).
 
 
 
@@ -119,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/eolder/RP2040-hal](https://github.com/eolder/RP2040-hal)
+Project Link: [https://github.com/eolder/rp2040-hal](https://github.com/eolder/rp2040-hal)
 
 
 

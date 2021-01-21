@@ -1,8 +1,10 @@
 [package]
-name = "RP2040-hal"
+name = "rp2040-hal"
 version = "0.1.0"
 authors = ["eolder <evanmolder@gmail.com>"]
 edition = "2018"
+homepage = "https://github.com/eolder/RP2040-hal"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
